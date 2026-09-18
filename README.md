@@ -1,11 +1,13 @@
 # movieticket_booking_system
-
-🎬 A beginner-friendly Python Movie Ticket Booking System that allows users to login, select movies and ticket types, enter customer details, calculate prices and discounts, choose payment methods, generate booking IDs, view receipts, and cancel tickets with refund calculation.
-
+```
+🎬 A beginner-friendly Python Movie Ticket Booking System that allows users to login, select movies and ticket types,
+ enter customer details, calculate prices and discounts, choose payment methods, generate booking IDs, view receipts,
+ and cancel tickets with refund calculation.
+```
 ## 🎫 1. Project Title
-
-Movie Ticket Booking System 🎬🎟️
-
+```
+ Movie Ticket Booking System 🎬🎟️
+```
 ## 📖 2. Introduction
 
 The Movie Ticket Booking System is a Python-based mini project designed to simulate a real-world movie ticket booking application.
@@ -19,7 +21,7 @@ This project is developed using basic and intermediate Python concepts such as v
 ## 🎯 3. Objectives
 
 The main objectives of this project are:
-
+```
 - 🐍 To understand Python programming concepts.
 - 🧩 To practice creating and calling functions.
 - 🔐 To implement basic user login validation.
@@ -35,11 +37,11 @@ The main objectives of this project are:
 - ❌ To provide ticket cancellation.
 - 💵 To calculate refund amount.
 - 🔄 To understand the flow of a real-world booking system.
-
+```
 ## ⚙️ 4. System Features
 
 The improved system includes:
-
+```
 - 🔐 User Login
 - 🎬 Display Available Movies
 - 🎫 Display Ticket Categories
@@ -63,7 +65,7 @@ The improved system includes:
 - 💻 VS Code	Code Editor
 - 🤖 AI Tools	Learning and debugging
 - 🖥️ Terminal	Program execution
-
+```
 ## 🔄 6. Project Flow
                 🚀 START
                    ↓
@@ -141,32 +143,33 @@ main()
 ## 🎬 8. Available Movies
 
 The system provides five movies:
-
+```
 1. 🎬 Avatar 3
 2. 🦸 Avengers: Secret Wars
 3. 🕷️ Spider-Man
 4. 🦖 Jurassic World
 5. 👻 The Conjuring
-
+```
 Each movie has its own movie price.
 
 ## 🎫 9. Ticket Categories
+```
 1. 🎟️ Standard - ₹200
 2. ⭐ Premium  - ₹500
 3. 👑 VIP      - ₹1000
-
+```
 The user can select any one category while booking.
 
 ## 🏷️ 10. Discount System
 
 The system automatically calculates discounts based on the total booking amount.
-
+```
 - Total Amount	Discount
 - Below ₹500	0%
 - ₹500 – ₹999	10%
 - ₹1000 – ₹1499	20%
 - ₹1500 or above	40%
-
+```
 This makes the booking system more realistic.
 
 ## 💳 11. Payment Methods
@@ -190,7 +193,7 @@ After successful booking, the system generates a booking ID.
 ## 🧾 13. Booking Receipt
 
 The receipt displays:
-
+```
 1. Booking ID
 2. Customer Name
 3. Movie Name
@@ -204,7 +207,7 @@ The receipt displays:
 11. Final Amount
 12. Payment Method
 13. Booking Status
-
+```
 ## ❌ 14. Cancellation & Refund
 
 The user can cancel the booking after confirmation.
